@@ -1,10 +1,9 @@
 ---
-name: Bruno Mason
-image: 'https://via.placeholder.com/400x400'
+name: Robert Miller
+image: 'https://files.recuc.com/recuc.com_authors_admin_en.webp'
 location:
 website:
 facebook: https://www.facebook.com
 twitter: https://twitter.com
 instagram: https://www.instagram.com
 ---
-I'm a seasoned veteran of editorial and content management with the skills to make a difference.
