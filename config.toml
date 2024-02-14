@@ -128,8 +128,8 @@ defaultContentLanguage = "en"
   # Hero Settings
   [params.hero]
     enable = true
-    hero__title = "One Stop Daily News, Article, Inspiration, and Tips."
-    hero__description = "Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!"
+    hero__title = "Exploring the Digital Frontier"
+    hero__description = "Guided by experience, we delve into the dynamic world of web tech, providing comprehensive reviews and insightful knowledge."
 
 
   #-------------------------------
