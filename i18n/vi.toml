@@ -1,0 +1,42 @@
+# Menu Items
+[home]
+other = "Trang chủ"
+
+[domains]
+other = "Tên miền"
+
+[hosting]
+other = "Hosting"
+
+[servers]
+other = "Servers"
+
+[reviews]
+other = "Đánh giá"
+
+[latest]
+other = "Bài viết mới nhất"
+
+[authors]
+other = "Các tác giả"
+
+[tags]
+other = "Danh mục"
+
+[pages]
+other = "Trang"
+
+[about]
+other = "Về chúng tôi"
+
+[elements]
+other = "Phần tử"
+
+[contact]
+other = "Liên hệ"
+
+[videos]
+other = "Videos"
+
+[featured]
+other = "Bài viết nổi bật"

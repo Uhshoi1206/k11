@@ -1,0 +1,42 @@
+# Menu Items
+[home]
+other = "Home"
+
+[domains]
+other = "Domains"
+
+[hosting]
+other = "Hosting"
+
+[servers]
+other = "Servers"
+
+[reviews]
+other = "Reviews"
+
+[latest]
+other = "Latest"
+
+[authors]
+other = "Authors"
+
+[tags]
+other = "Categories"
+
+[pages]
+other = "Pages"
+
+[about]
+other = "About"
+
+[elements]
+other = "Elements"
+
+[contact]
+other = "Contact"
+
+[videos]
+other = "Videos"
+
+[featured]
+other = "Featured"
