@@ -11,6 +11,9 @@ other = "Hosting"
 [servers]
 other = "Servers"
 
+[ai]
+other = "AI"
+
 [reviews]
 other = "Đánh giá"
 
