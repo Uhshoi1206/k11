@@ -7,4 +7,3 @@ twitter: https://twitter.com
 facebook: https://www.facebook.com
 instagram: https://www.instagram.com
 ---
-I offer English editing and language facilitation services to improve the fluency and impact of written English.
