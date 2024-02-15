@@ -24,8 +24,8 @@ defaultContentLanguage = "en"
 
     [languages.vi.params.hero]
       enable = true
-      hero__title = "Khám phá biên giới số"
-      hero__description = "Dựa vào kinh nghiệm, chúng tôi khám phá thế giới công nghệ web động, cung cấp các đánh giá toàn diện và kiến thức sâu sắc."
+      hero__title = "Định hình tương lai trực tuyến"
+      hero__description = "Khám phá những xu hướng công nghệ đang thay đổi cuộc sống của chúng ta một cách đáng kinh ngạc."
 
 #-------------------------------
 # Main Menu
