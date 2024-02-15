@@ -17,10 +17,11 @@ defaultContentLanguage = "en"
     contentDir = "content/vi"
     weight = 2
 
-  [[params.hero.vi]]
-    hero__title = "Khám phá biên giới kỹ thuật số"
-    hero__description = "Dẫn dắt bởi kinh nghiệm, chúng tôi khám phá thế giới động của công nghệ web, cung cấp những đánh giá toàn diện và kiến thức sâu sắc."
-    
+    [languages.vi.params.hero]
+      enable = true
+      hero__title = "Khám phá biên giới số"
+      hero__description = "Dựa vào kinh nghiệm, chúng tôi khám phá thế giới công nghệ web động, cung cấp các đánh giá toàn diện và kiến thức sâu sắc."
+
 #-------------------------------
 # Main Menu
 [menu]
