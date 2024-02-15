@@ -134,7 +134,7 @@ defaultContentLanguage = "en"
   [params.hero.vi]
     enable = true
     hero__title = "Khám phá biên giới kỹ thuật số"
-    hero__description = "Dẫn dắt bởi kinh nghiệm, chúng tôi khám phá thế giới động của công nghec7 web, cung cấp những đánh giá toàn diện và kiến thức sâu seafc."
+    hero__description = "Dẫn dắt bởi kinh nghiệm, chúng tôi khám phá thế giới động của công nghệ web, cung cấp những đánh giá toàn diện và kiến thức sâu sắc."
     
   #-------------------------------
   # Tags Section Settings
