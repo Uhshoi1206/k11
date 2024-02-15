@@ -9,14 +9,18 @@ defaultContentLanguage = "en"
 [languages]
   [languages.en]
     languageName = "en"
-	contentDir = "content/en"
+    contentDir = "content/en"
     weight = 1
 
   [languages.vi]
     languageName = "vi"
-	contentDir = "content/vi"
+    contentDir = "content/vi"
     weight = 2
-	
+
+  [[params.hero.vi]]
+    hero__title = "Khám phá biên giới kỹ thuật số"
+    hero__description = "Dẫn dắt bởi kinh nghiệm, chúng tôi khám phá thế giới động của công nghệ web, cung cấp những đánh giá toàn diện và kiến thức sâu sắc."
+    
 #-------------------------------
 # Main Menu
 [menu]
@@ -131,11 +135,6 @@ defaultContentLanguage = "en"
     hero__title = "Exploring the Digital Frontier"
     hero__description = "Guided by experience, we delve into the dynamic world of web tech, providing comprehensive reviews and insightful knowledge."
 
-  [params.hero.vi]
-    enable = true
-    hero__title = "Khám phá biên giới kỹ thuật số"
-    hero__description = "Dẫn dắt bởi kinh nghiệm, chúng tôi khám phá thế giới động của công nghệ web, cung cấp những đánh giá toàn diện và kiến thức sâu sắc."
-    
   #-------------------------------
   # Tags Section Settings
   [params.tags_section]
