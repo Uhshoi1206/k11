@@ -12,6 +12,11 @@ defaultContentLanguage = "en"
     contentDir = "content/en"
     weight = 1
 
+    [languages.en.params.hero]
+      enable = true
+      hero__title = "Exploring the Digital Frontier"
+      hero__description = "Guided by experience, we delve into the dynamic world of web tech, providing comprehensive reviews and insightful knowledge."
+      
   [languages.vi]
     languageName = "vi"
     contentDir = "content/vi"
@@ -127,14 +132,6 @@ defaultContentLanguage = "en"
   logo_dark = "/images/logo.png"
   description = "recuc.com is a news and magazine Hugo theme"
   color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
-
-
-  #-------------------------------
-  # Hero Settings
-  [params.hero]
-    enable = true
-    hero__title = "Exploring the Digital Frontier"
-    hero__description = "Guided by experience, we delve into the dynamic world of web tech, providing comprehensive reviews and insightful knowledge."
 
   #-------------------------------
   # Tags Section Settings
