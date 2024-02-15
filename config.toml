@@ -131,7 +131,11 @@ defaultContentLanguage = "en"
     hero__title = "Exploring the Digital Frontier"
     hero__description = "Guided by experience, we delve into the dynamic world of web tech, providing comprehensive reviews and insightful knowledge."
 
-
+  [params.hero.vi]
+    enable = true
+    hero__title = "Khám phá biên giới kỹ thuật số"
+    hero__description = "Dẫn dắt bởi kinh nghiệm, chúng tôi khám phá thế giới động của công nghec7 web, cung cấp những đánh giá toàn diện và kiến thức sâu seafc."
+    
   #-------------------------------
   # Tags Section Settings
   [params.tags_section]
