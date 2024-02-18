@@ -164,7 +164,10 @@ defaultContentLanguage = "en"
     enable = true
     section_title = "Meet our authors"
 
-
+  [languages.vi.params.authors_section]
+    enable = true
+    section_title = "Tìm hiểu các tác giả"
+    
   #-------------------------------
   # Footer Settings
   [params.footer]
