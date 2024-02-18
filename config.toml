@@ -126,7 +126,11 @@ defaultContentLanguage = "en"
     cta_button_link = "/contact/"
     cta_button_text = "Get in touch"
 
-
+  [languages.vi.params.cta_button]
+    enable = true
+    cta_button_link = "/contact/"
+    cta_button_text = "Liên hệ"
+    
 [params]
   logo = "/images/logo.png" # You can add own logo. For example "/images/logo.png".
   logo_dark = "/images/logo.png"
